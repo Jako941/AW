@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Aniyomi: AniWorld",
+        "pkg": "eu.kanade.tachiyomi.animeextension.de.aniworld",
+        "apk": "aniyomi-de.aniworld-v1.0.apk",
+        "lang": "de",
+        "code": 1,
+        "version": "1.0",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "AniWorld",
+                "lang": "de",
+                "id": "3140452181355690820",
+                "baseUrl": "https://aniworld.to/"
+            }
+        ]
+    }
+]
